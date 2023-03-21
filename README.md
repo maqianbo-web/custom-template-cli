@@ -3,7 +3,7 @@
 ## 全局安装
 
 ```
-yarn install custom-template-cli -g
+yarn global add @maqianbo/custom-template-cli
 ```
 
 ## 下载模板
