@@ -1,5 +1,5 @@
 {
-  "name": "custom-template-cli",
+  "name": "@ma/custom-template-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "custom-tempate-cli"
+  ],
+  "author": "maqianbo",
   "license": "ISC",
   "dependencies": {
     "chalk": "^3.0.0",
